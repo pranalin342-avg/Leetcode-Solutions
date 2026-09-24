@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/pranalin342-avg/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/pranalin342-avg/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0412-fizz-buzz](https://github.com/pranalin342-avg/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/pranalin342-avg/Leetcode-Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 ## String
 |  |
 | ------- |
