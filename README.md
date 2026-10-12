@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pranalin342-avg/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/pranalin342-avg/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pranalin342-avg/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/pranalin342-avg/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 ## Two Pointers
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/pranalin342-avg/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/pranalin342-avg/Leetcode-Solutions/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/pranalin342-avg/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0412-fizz-buzz](https://github.com/pranalin342-avg/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/pranalin342-avg/Leetcode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/pranalin342-avg/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/pranalin342-avg/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0412-fizz-buzz](https://github.com/pranalin342-avg/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
